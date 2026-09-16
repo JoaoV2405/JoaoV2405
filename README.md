@@ -43,17 +43,9 @@ Tenho interesse especial em desenvolvimento **Full Stack**, arquitetura de aplic
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge\&logo=googlecloud\&logoColor=fd9bad)
 
 ## 📊 GitHub
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoV2405&theme=transparent" alt="GitHub Profile Details" /> </p>
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=JoaoV2405&show_icons=true&theme=transparent&hide_border=true&title_color=fd9bad&icon_color=fd9bad&text_color=ffffff"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoV2405&layout=compact&theme=transparent&hide_border=true&title_color=fd9bad&text_color=ffffff"
-  />
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoV2405&theme=transparent" alt="Top Languages by Repository" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoV2405&theme=transparent" alt="Top Languages by Commits" /> </p>
 
 ## 📈 Atividade
 
